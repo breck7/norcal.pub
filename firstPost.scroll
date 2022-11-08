@@ -1,6 +1,28 @@
-title Hello world
+title Aloha San Francisco
 date 11-08-2022
 
-* This is my first blog post using Scroll. This post will appear in the feed and on the index page.
+* _The San Fran Pub is a new public domain newspaper serving the people of San Francisco, CA._
+
+* Aloha people of San Francisco! Do you have amazing, true stories that are waiting to be told? If so, _today is your day_.
+ dateline
+
+* Public Domain Publishing Inc. has launched the San Fran Pub, an open source, public domain newspaper to serve you, _the people of San Francisco. Send us your stories now. _We're listening_.
+ https://publicdomaincompany.com/ Public Domain Publishing Inc
+
+* This is our second local newspaper to launch and I'm very excited about it. I personally lived in San Francisco from 2008 - 2014 and have deep ties to the city.
+
+* If you're interested in writing a story for us no need to ask for permission—pull requests are open.
+ https://github.com/breck7/sanfran.pub pull requests
+
+* If you have a great investigative story idea but need some funding, drop me an email.
+
+* Thank you and I look forward to serving the residents of San Francisco for many years to come.
+
+author https://github.com/breck7 John Breck Yunits
+
+quote
+ Mine and publish the truth for the people.
+ - The motto of The San Fran Pub
+
 groups index
 import settings.scroll

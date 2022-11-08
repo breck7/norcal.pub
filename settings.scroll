@@ -1,8 +1,8 @@
 importOnly
-siteTitle My Website
-siteDescription Powered by Scroll
-github https://github.com/breck7/scroll
-viewSourceBaseUrl https://github.com/breck7/scroll/blob/main
+siteTitle The San Fran Pub
+siteDescription The San Fran Pub is a new public domain local San Francisco, CA newspaper that mines and publishes the truth
+github https://github.com/breck7/sanfran.pub
+viewSourceBaseUrl https://github.com/breck7/sanfran.pub/blob/main
 twitter https://twitter.com/breckyunits
-email feedback@scroll.pub
-baseUrl https://scroll.pub/
+email sanfranpub@publicdomaincompany.com
+baseUrl https://sanfran.pub
