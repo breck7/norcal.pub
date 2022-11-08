@@ -1,0 +1,6 @@
+title Hello world
+date 11-08-2022
+
+* This is my first blog post using Scroll. This post will appear in the feed and on the index page.
+groups index
+import settings.scroll
