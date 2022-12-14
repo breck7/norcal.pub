@@ -1,2 +1,4 @@
-import settings.scroll
-template group index
+import header.scroll
+title The Norcal Pub
+snippets index
+scrollFooter

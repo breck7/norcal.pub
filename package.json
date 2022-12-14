@@ -1,0 +1,13 @@
+{
+  "name": "The Norcal Pub",
+  "description": "The Norcal Pub is a public domain newspaper serving the people of the San Francisco Bay Area.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/norcal.pub.git"
+  },
+  "author": "Breck Yunits et al",
+  "homepage": "https://norcal.pub",
+  "dependencies": {
+    "scroll-cli": "^47.1.2"
+  }
+}

@@ -1,8 +1,7 @@
 importOnly
-siteTitle The San Fran Pub
-siteDescription The San Fran Pub is a new public domain local San Francisco, CA newspaper that mines and publishes the truth
-github https://github.com/breck7/sanfran.pub
-viewSourceBaseUrl https://github.com/breck7/sanfran.pub/blob/main
+description The Norcal Pub is a public domain newspaper serving the people of the San Francisco Bay Area.
+github https://github.com/breck7/norcal.pub
+viewSourceBaseUrl https://github.com/breck7/norcal.pub/blob/main
 twitter https://twitter.com/breckyunits
-email sanfranpub@publicdomaincompany.com
-baseUrl https://sanfran.pub
+email tips@norcal.pub
+baseUrl https://norcal.pub

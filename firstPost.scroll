@@ -1,18 +1,19 @@
-title Aloha San Francisco
-date 11-08-2022
+import header.scroll
+title Aloha San Francisco, Oakland, and San Jose
+date 11-14-2022
+groups index
+startColumns 2
 
-* _The San Fran Pub is a new public domain newspaper serving the people of San Francisco, CA._
+* _The Norcal Pub is a new public domain newspaper serving the people of San Francisco, Oakland, San Jose, and surrounding areas._
 
-* Aloha people of San Francisco! Do you have amazing, true stories that are waiting to be told? If so, _today is your day_.
+* Aloha people of the Bay! Do you have amazing, true stories that are waiting to be told? If so, _today is your day_.
  dateline
 
-* Public Domain Publishing Inc. has launched the San Fran Pub, an open source, public domain newspaper to serve you, _the people of San Francisco. Send us your stories now. _We're listening_.
- https://publicdomaincompany.com/ Public Domain Publishing Inc
-
-* This is our second local newspaper to launch and I'm very excited about it. I personally lived in San Francisco from 2008 - 2014 and have deep ties to the city.
+* Public Domain Publishing Inc. has launched the Norcal Pub, an open source, public domain newspaper to serve you, _the people of the Bay. Send us your stories now. _We're listening_.
+ https://pd.pub Public Domain Publishing Inc
 
 * If you're interested in writing a story for us no need to ask for permission—pull requests are open.
- https://github.com/breck7/sanfran.pub pull requests
+ https://github.com/breck7/norcal.pub pull requests
 
 * If you have a great investigative story idea but need some funding, drop me an email.
 
@@ -22,7 +23,6 @@ author https://github.com/breck7 John Breck Yunits
 
 quote
  Mine and publish the truth for the people.
- - The motto of The San Fran Pub
+ - The motto of The Norcal Pub
 
-groups index
-import settings.scroll
+scrollFooter
